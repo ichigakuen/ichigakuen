@@ -1,0 +1,2 @@
+# ichigakuen
+main application repo
